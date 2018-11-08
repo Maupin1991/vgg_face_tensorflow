@@ -1,8 +1,6 @@
 # vgg_face_tensorflow
 
-
-
-# Credits
+[VGG Research](http://www.robots.ox.ac.uk/~vgg/)
 
 [VGG Face model for Tensorflow](https://github.com/pavelgonchar/vgg-face-tensorflow)
 
